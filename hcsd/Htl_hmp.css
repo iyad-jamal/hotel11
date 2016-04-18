@@ -1,0 +1,21 @@
+p.descrip{
+
+
+    position: absolute;
+    right: 10%;
+    top:10%;
+}
+body{
+    background-color: snow;
+}
+#mycarousel{
+    width: 70%;
+
+}
+
+.info
+{
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+}
